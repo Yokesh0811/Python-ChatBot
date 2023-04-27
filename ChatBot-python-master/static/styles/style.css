@@ -1,4 +1,4 @@
-/* :root {
+/*:root {
     --body-bg: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
     --msger-bg: #fff;
     --border: 2px solid #ddd;
@@ -42,7 +42,7 @@
   }
   
   .msger-header {
-    /* display: flex; */
+    display: flex; 
     font-size: medium;
     justify-content: space-between;
     padding: 10px;
